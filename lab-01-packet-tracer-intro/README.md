@@ -26,4 +26,5 @@ Successfully created and connected the network topology in Cisco Packet Tracer.
 
 ## Screenshot
 
-Network topology screenshot attached below.
+![Lab Topology](01-labs-packet-tracer.png)
+

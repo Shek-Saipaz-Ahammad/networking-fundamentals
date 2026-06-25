@@ -20,7 +20,7 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 
 | No. | Lab | Link |
 |------|------|------|
-| 01 | Packet Tracer Introduction | [Open](./labs/01-packet-tracer-intro) |
+| 01 | Packet Tracer Introduction | [Open](./lab-01-packet-tracer-intro) |
 
 ---
 

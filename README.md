@@ -13,6 +13,7 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 | No. | Topic | Link |
 |------|------|------|
 | 01 | Network Fundamentals | [Open](./01-network-fundamentals) |
+| 02 | Interfaces and Cables | [Open](./02-interfaces-and-cables/) |
 
 ---
 
@@ -21,6 +22,7 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 | No. | Lab | Link |
 |------|------|------|
 | 01 | Packet Tracer Introduction | [Open](./lab-01-packet-tracer-intro) |
+| 02 | Connecting Network Devices | [Open](./lab-02-connecting-network-devices) |
 
 ---
 

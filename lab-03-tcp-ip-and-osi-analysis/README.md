@@ -38,7 +38,7 @@ Analyze network communication using Packet Tracer Simulation Mode and observe ho
 
 ## 📷 Screenshot
 
-![Lab 03 Topology](lab-03-topology.png)
+![Lab 03 Topology](03-labs-packet-tracer-screenshot.png)
 
 ---
 

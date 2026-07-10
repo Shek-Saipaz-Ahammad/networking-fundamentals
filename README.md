@@ -14,6 +14,7 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 |------|------|------|
 | 01 | Network Fundamentals | [Open](./01-network-fundamentals) |
 | 02 | Interfaces and Cables | [Open](./02-interfaces-and-cables/) |
+| 03 | TCP/IP and OSI models | [open](./03-tcp-ip-and-osi-models/) |
 
 ---
 

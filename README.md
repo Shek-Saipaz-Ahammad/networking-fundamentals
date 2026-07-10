@@ -24,6 +24,7 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 |------|------|------|
 | 01 | Packet Tracer Introduction | [Open](./lab-01-packet-tracer-intro) |
 | 02 | Connecting Network Devices | [Open](./lab-02-connecting-network-devices) |
+| 03 | TCP/IP and OSI Analysis    | [open](./lab-03-tcp-ip-and-osi-analysis)  |
 
 ---
 

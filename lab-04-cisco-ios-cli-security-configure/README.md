@@ -40,7 +40,7 @@ Practice basic Cisco IOS CLI configuration by changing device settings, configur
 
 ## 📷 Screenshot
 
-![Lab 04 Topology](lab-04-topology.png)
+![Lab 04 Topology](04-labs-packet-tracer-screenshot.png)
 
 ---
 

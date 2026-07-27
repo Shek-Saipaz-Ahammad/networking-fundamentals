@@ -12,9 +12,10 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 
 | No. | Topic | Link |
 |------|------|------|
-| 01 | Network Fundamentals | [Open](./01-network-fundamentals) |
+| 01 | Network Fundamentals | [Open](./01-network-fundamentals/) |
 | 02 | Interfaces and Cables | [Open](./02-interfaces-and-cables/) |
 | 03 | TCP/IP and OSI models | [open](./03-tcp-ip-and-osi-models/) |
+| 04 | Cisco IOS CLI | [Open](./04-cisco-ios-cli/) |
 
 ---
 
@@ -22,9 +23,10 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 
 | No. | Lab | Link |
 |------|------|------|
-| 01 | Packet Tracer Introduction | [Open](./lab-01-packet-tracer-intro) |
-| 02 | Connecting Network Devices | [Open](./lab-02-connecting-network-devices) |
-| 03 | TCP/IP and OSI Model Analysis | [open](./lab-03-tcp-ip-and-osi-analysis)  |
+| 01 | Packet Tracer Introduction | [Open](./lab-01-packet-tracer-intro/) |
+| 02 | Connecting Network Devices | [Open](./lab-02-connecting-network-devices/) |
+| 03 | TCP/IP and OSI Model Analysis | [open](./lab-03-tcp-ip-and-osi-analysis/)  |
+| 04 | Cisco IOS CLI Configuration | [Open](./lab-04-cisco-ios-cli-security-configure/) |
 
 ---
 
